@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GuiaDeBolsoEAudio</string>
+    <string name="frutas" translatable="false">VER LISTA DE FRUTAS</string>
+    <string name="parentes" translatable="false">VER LISTA DE PARENTES</string>
+    <string name="numeros" translatable="false">VER LISTA DE NUMEROS</string>
+    <string name="expressoes" translatable="false">VER LISTA DE EXPRESSÕES</string>
+    <string name="descricao_frutas" translatable="false">BOTÃO DE ACESSO DAS FRUTAS</string>
+    <string name="descricao_parentes" translatable="false">BOTÃO DE ACESSO DOS PARENTES</string>
+    <string name="descricao_numeros" translatable="false">BOTÃO DE ACESSO DOS NUMEROS</string>
+    <string name="descricao_expressoes" translatable="false">BOTÃO DE ACESSO DAS EXPRESSÕES</string>
+    <string name="txt_inicio">0min,0seg</string>
+    <string name="txt_fim">_min,_seg</string>
+    <string name="btn_pause" translatable="false">PAUSE</string>
+    <string name="btn_play" translatable="false">PLAY</string>
+    <string name="btn_stop" translatable="false">STOP</string>
+    <string name="pera" translatable="false">Pera</string>
+    <string name="uva" translatable="false">Uva</string>
+    <string name="maca" translatable="false">Maça</string>
+    <string name="tio" translatable="false">Tio</string>
+    <string name="mae" translatable="false">Mãe</string>
+    <string name="avo" translatable="false">Avó</string>
+    <string name="gato" translatable="false">Gato</string>
+    <string name="butia" translatable="false">Butiá</string>
+    <string name="dois_de_paus" translatable="false">Dois de paus</string>
+    <string name="um" translatable="false">Um</string>
+    <string name="cinco" translatable="false">Cinco</string>
+    <string name="dez" translatable="false">Dez</string>
+    <string name="desc_pera" translatable="false">A pera esta madura</string>
+    <string name="desc_uva" translatable="false">A uva foi colhida</string>
+    <string name="desc_maca" translatable="false">A maça foi cortada</string>
+    <string name="desc_tio" translatable="false">O tio é fiho do meu avô</string>
+    <string name="desc_mae" translatable="false">A mãe cuida da casa</string>
+    <string name="desc_avo" translatable="false">A avó esta doente</string>
+    <string name="desc_gato" translatable="false">Atirei o pau no gato</string>
+    <string name="desc_butia" translatable="false">Caiu os butiás do bolso</string>
+    <string name="desc_dois_de_paus" translatable="false">Parado feito dois de paus</string>
+    <string name="desc_um" translatable="false">O numero um é impar</string>
+    <string name="desc_cinco" translatable="false">O numero cinco é menor que dez</string>
+    <string name="desc_dez" translatable="false">O numero dez é par</string>
+    <string name="trad_pera">The pear is ripe</string>
+    <string name="trad_uva">The grape was harvested</string>
+    <string name="trad_maca">The apple has been cut</string>
+    <string name="trad_tio">Uncle is my grandfather s son</string>
+    <string name="trad_mae">The mother takes care of the house</string>
+    <string name="trad_avo">The grandmother is sick</string>
+    <string name="trad_gato">I threw the stick at the cat</string>
+    <string name="trad_butia">The pocket buys fell</string>
+    <string name="trad_dois_de_paus">Stationary made of two of clubs</string>
+    <string name="trad_um">Number one is odd</string>
+    <string name="trad_cinco">Number five is less than ten</string>
+    <string name="trad_dez">Number ten is even</string>
+</resources>

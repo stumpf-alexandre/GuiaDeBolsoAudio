@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuiaDeBolsoEAudio</string>
+    <string name="frutas">VIEW FRUIT LIST</string>
+    <string name="parentes">VIEW RELATED LIST</string>
+    <string name="numeros">SEE VIEW LIST OF NUMBERS</string>
+    <string name="expressoes">VIEW LIST OF EXPRESSIONS</string>
+    <string name="descricao_frutas">" FRUIT ACCESS BUTTON"</string>
+    <string name="descricao_parentes">PARENT ACCESS BUTTON</string>
+    <string name="descricao_numeros">ACCESS NUMBERS BUTTON</string>
+    <string name="descricao_expressoes">" EXPRESSION ACCESS BUTTON"</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_stop">STOP</string>
+    <string name="pera">Pear</string>
+    <string name="uva">Grape</string>
+    <string name="maca">Apple</string>
+    <string name="tio">Uncle</string>
+    <string name="mae">" Mother"</string>
+    <string name="avo">Grandma</string>
+    <string name="gato">Cat</string>
+    <string name="butia">Butiá</string>
+    <string name="dois_de_paus">Two of clubs</string>
+    <string name="um">One</string>
+    <string name="cinco">" Five"</string>
+    <string name="dez">Ten</string>
+    <string name="desc_pera">The pear is ripe</string>
+    <string name="desc_uva">The grape was harvested</string>
+    <string name="desc_maca">The apple has been cut</string>
+    <string name="desc_tio">Uncle is my grandfather s son</string>
+    <string name="desc_mae">The mother takes care of the house</string>
+    <string name="desc_avo">The grandmother is sick</string>
+    <string name="desc_gato">I threw the stick at the cat</string>
+    <string name="desc_butia">The pocket buys fell</string>
+    <string name="desc_dois_de_paus">Stationary made of two of clubs</string>
+    <string name="desc_um">Number one is odd</string>
+    <string name="desc_cinco">Number five is less than ten</string>
+    <string name="desc_dez">Number ten is even</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryAlemao">#f4ec59</color>
+    <color name="colorPrimaryIngles">#ff0000</color>
+    <color name="colorPrimaryItaliano">#2225e7</color>
+    <color name="colorPrimaryFrances">#1e7902</color>
+    <color name="colorPrimaryJapones">#8c158e</color>
+    <color name="colorPrimaryChines">#a854d6</color>
+    <color name="colorPrimaryPort">#9cd3e9</color>
+</resources>
